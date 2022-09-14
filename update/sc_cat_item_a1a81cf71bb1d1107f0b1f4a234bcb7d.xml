@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Office">109cdff8c6112276003b17991a09ad65</category>
+        <checked_out>true</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>459918f71bb1d1107f0b1f4a234bcbe0</icon>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Test for Print</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=a1a81cf71bb1d1107f0b1f4a234bcb7d&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>The Test for Printing </short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:11:53</sys_created_on>
+        <sys_id>a1a81cf71bb1d1107f0b1f4a234bcb7d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test for Print</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_a1a81cf71bb1d1107f0b1f4a234bcb7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:13:05</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=a1a81cf71bb1d1107f0b1f4a234bcb7d"/>
+    <fx_price action="delete_multiple" query="id=a1a81cf71bb1d1107f0b1f4a234bcb7d"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>a1a81cf71bb1d1107f0b1f4a234bcb7d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:11:53</sys_created_on>
+        <sys_id>6349143b1bb1d1107f0b1f4a234bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:11:53</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>a1a81cf71bb1d1107f0b1f4a234bcb7d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:11:53</sys_created_on>
+        <sys_id>e749143b1bb1d1107f0b1f4a234bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:11:53</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <hash>11a370b4c9aee73f0e90118ba655f63cd96f02cfeeeca3fd71cc4b07863a82ef</hash>
+        <image_height>344</image_height>
+        <image_width>344</image_width>
+        <size_bytes>3756</size_bytes>
+        <size_compressed>3059</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:13:05</sys_created_on>
+        <sys_id>459918f71bb1d1107f0b1f4a234bcbe0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:13:05</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>a1a81cf71bb1d1107f0b1f4a234bcb7d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="459918f71bb1d1107f0b1f4a234bcbe0">459918f71bb1d1107f0b1f4a234bcbe0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:13:05</sys_created_on>
+        <sys_id>c99918f71bb1d1107f0b1f4a234bcbe0</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4068</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="459918f71bb1d1107f0b1f4a234bcbe0">459918f71bb1d1107f0b1f4a234bcbe0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:13:05</sys_created_on>
+        <sys_id>4d9918f71bb1d1107f0b1f4a234bcbe0</sys_id>
+    </sys_attachment_doc>
+</record_update>
